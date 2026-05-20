@@ -1,1 +1,1 @@
-# CodeAlpha_EventRegistrationSystem
+# CodeAlpha_task1
